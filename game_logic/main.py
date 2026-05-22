@@ -81,7 +81,3 @@ class Player:
     def __init__(self,color):
         self.name = ""
         self.color = color
-
-    # def askMove():
-    #     requested_move = input("fais ton move")
-    #    if board.getPiece(requestedmove[1:3]).isValidMove(requested_move[1:3],requested_move[5:7]):
